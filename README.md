@@ -15,6 +15,7 @@
 <br>
 
 🗂️ PR 주소
+
 [PR확인하기](https://github.com/humanpear/KDT_Mini_team1/pulls?q=is%3Apr+is%3Aclosed)
 
 <br>
