@@ -45,7 +45,7 @@ React.js / TypeScript / tailwind css / React Query / zustand
         <sub><b>이은주</b><br></sub>
     </td>
     <td align="center">
-        <img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224932077363924992/f25991550ff571c3.png?ex=661f49e5&is=660cd4e5&hm=ab8fe4e4079337bf621eb2102e1c93f85148d320e356c0cfe79ee392b839f88b&" width="150px;" alt=""/><br />
+        <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc3LgRw%2FbtsH9JU0PEG%2FEYulcbcOYyZKFQtMFgsQY1%2Fimg.png" width="150px;" alt=""/><br />
         <sub><b>박인배</b><br></sub>
     </td>
   </tr>
@@ -94,7 +94,7 @@ src
    </tr>
    <tr>
       <td  align="center"><img src="https://github.com/humanpear/KDT_Mini_team1/assets/102540636/8eeab8b5-825b-48cd-b8a0-dbdf423ce324" width="400" height="300"/> </td>
-      <td  align="center"><img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224945508993339442/2024-04-03124431-ezgif.com-video-to-gif-converter.gif?ex=661f5667&is=660ce167&hm=e524262dc8d049234dc42b91950d5248b6e75219ff4777e908d315903c1389c9&" width="400" height="300"/> </td>
+      <td  align="center"><img src="https://blog.kakaocdn.net/dn/cgdOEp/btsH8UwfPQ3/5LxkkfZTKKW7M0iSWfaHcK/img.gif" width="400" height="300"/> </td>
    </tr>
    <tr>
       <td  align="center">로그인 폼을 통해 로그인 및 회원가입</td>
@@ -108,11 +108,11 @@ src
       <td align="center">예약요청 페이지</td>
    </tr>
    <tr>
-      <td  align="center"><img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224926711536160890/b5fb3daca2c47a44.gif?ex=661f44e6&is=660ccfe6&hm=b675ffeb11ce7bfad6438477ad3c34f644dd4ec07fa247e300a11973a307ae1c&" width="400" height="300"/> </td>
-      <td  align="center"><img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224925633994297364/2024-04-03123430-ezgif.com-video-to-gif-converter.gif?ex=661f43e5&is=660ccee5&hm=5cdf6f7c7a5d1203d800bc953468ee56552a5f33f7c1748b036047260e179ad2&" width="400" height="300"/></td>
+      <td  align="center"><img src="https://blog.kakaocdn.net/dn/JIbZi/btsH8AZjBqs/gHdE4iXbhqvpabBytYN5Mk/img.gif" width="400" height="300"/> </td>
+      <td  align="center"><img src="https://blog.kakaocdn.net/dn/q5jkC/btsH9LL3OX8/qEaGqrgaZOVlBQ7WdXtAt0/img.gif" width="400" height="300"/></td>
    </tr>
    <tr>
-      <td  align="center">객실형태, 체크인, 체크아웃, 인원 옵션 선택 후 예약하기 혹은 장바구니 담기 가능</td>
+      <td  align="center">객실형태, 체크인, 체크아웃, 인원 옵션 선택 후 예약하기 <br /> 혹은 장바구니 담기 가능</td>
       <td  align="center">선택한 옵션 내역 확인 및 수정 가능, 약관 동의 후 예약요청</td>
    </tr>
 </table>
@@ -123,7 +123,7 @@ src
       <td align="center">장바구니 페이지</td>
    </tr>
    <tr>
-      <td  align="center"><img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224925633994297364/2024-04-03123430-ezgif.com-video-to-gif-converter.gif?ex=661f43e5&is=660ccee5&hm=5cdf6f7c7a5d1203d800bc953468ee56552a5f33f7c1748b036047260e179ad2&" width="400" height="300"/></td>
+      <td  align="center"><img src="https://blog.kakaocdn.net/dn/q5jkC/btsH9LL3OX8/qEaGqrgaZOVlBQ7WdXtAt0/img.gif" width="400" height="300"/></td>
       <td  align="center"><img src="https://github.com/humanpear/KDT_Mini_team1/assets/102540636/b6a6d213-3605-4d1a-ad60-aded656a6f76" width="400" height="300"/></td>
    </tr>
    <tr>
@@ -137,7 +137,7 @@ src
       <td align="center">마이페이지</td>
    </tr>
    <tr>
-      <td  align="center"><img src="https://cdn.discordapp.com/attachments/1218113005179637810/1224928084285849670/d95a275b1e90595f.gif?ex=661f462d&is=660cd12d&hm=eee6d664fd3dccb41a594e720dd8e71be69cb11eeeb98b1f8edb4d9b20feff35&" width="400" height="300"/></td>
+      <td  align="center"><img src="https://blog.kakaocdn.net/dn/zXP6m/btsH8TD6wh4/KmTgEilq877O8n0iZOd5Z0/img.gif" width="400" height="300"/></td>
    <tr>
       <td  align="center">내 정보, 예약내역 확인 가능</td>
    </tr>
